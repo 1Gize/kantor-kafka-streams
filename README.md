@@ -1,10 +1,10 @@
 # kantor-kafka-streams
-Develop a Kafka Streams application that simulate a Currency Exchange.
+Developed a Kafka Streams application that simulate a Currency Exchange.
 
-Use the high-level Streams DSL
+Used the high-level Streams DSL
 
-Use StreamsBuilder.stream to create a KStream for amounts to convert
+Used StreamsBuilder.stream to create a KStream for amounts to convert
 
-Use StreamsBuilder.table to create a KTable for rates
+Used StreamsBuilder.table to create a KTable for rates
 
-Use KStream.join to join amounts with rates
+Used KStream.join to join amounts with rates
